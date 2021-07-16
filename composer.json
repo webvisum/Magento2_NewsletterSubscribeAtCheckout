@@ -14,7 +14,7 @@
         "OSL-3.0"
     ],
     "require": {
-        "magento/framework": "^100|^101",
+        "magento/framework": "*",
         "magento/module-newsletter": "*"
     },
     "autoload": {
